@@ -1,0 +1,10 @@
+hash: 4727dee27c124d992bcd42c768500d78d04b6bd7cc05c767bc628fbbe1ef0d04
+imports:
+- name: github.com/godbus/dbus
+  version: 850816941114ebdf6d68a20595de37db822a5e8a
+- name: github.com/coreos/pkg
+  subpackages:
+  - dlopen
+  version: 447b7ec906e523386d9c53be15b55a8ae86ea944
+updated: '2018-06-09T15:08:05.915807+00:00'
+
