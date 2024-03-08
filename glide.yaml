@@ -1,9 +1,0 @@
-import:
-- package: github.com/godbus/dbus
-  version: 850816941114ebdf6d68a20595de37db822a5e8a
-- package: github.com/coreos/pkg
-  subpackages:
-  - dlopen
-  version: 447b7ec906e523386d9c53be15b55a8ae86ea944
-package: github.com/coreos/go-systemd
-
